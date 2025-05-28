@@ -18,5 +18,8 @@
     <ClCompile Include="first.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="second.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
